@@ -1,0 +1,8 @@
+.display {
+    width: 150px;
+    border: solid;
+    border-radius: 10px;
+    background-color: azure;
+    color:dimgrey;
+    margin: auto 80px;
+}
